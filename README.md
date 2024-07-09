@@ -1,11 +1,14 @@
-## Hi there 👋
-
+## Hi Techies 👋
+## Here's a quick intro about myself
+✍🏻 I'm currently pursuing my Bachelors in Data science and Programming from IIT-Madras.
+🔭 I’m currently working on Ngo as a Technical and Documentation team lead and also as a member of Project management & Operations team.
+🌱 I’m currently learning Python.
 <!--
 **NikhilSinngh/NikhilSinngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ngo as a Technical and Documentation team lead and also as a member of Project management & Operations team.
+##- 🔭 I’m currently working on Ngo as a Technical and Documentation team lead and also as a member of Project management & Operations team.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
